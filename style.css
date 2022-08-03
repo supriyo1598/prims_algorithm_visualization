@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500&family=Lora:ital,wght@1,400;1,500;1,600&family=Poppins:wght@400;700&family=Varela&display=swap');
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background-color: black;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  font-family: 'Poppins', sans-serif;;
+}
+h1{
+position: absolute;
+color: white;
+top: 90%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-transform: uppercase;
+font-size: 20px;
+font-weight: 500;
+}
